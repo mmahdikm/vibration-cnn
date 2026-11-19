@@ -1,0 +1,8 @@
+Vibration CNN
+Copyright (c) 2022, 2026 Mahdi Kazemi Moghaddam
+
+The residual-block structure follows torchvision ResNet conventions. The torchvision BSD-3-Clause notice is retained in licenses/TORCHVISION-BSD.txt.
+Reference: https://github.com/pytorch/vision
+
+Original contribution: temporal input convolution and small/large multi-channel classification architectures.
+Public release changes (2026-11-19): data-independent NumPy input format and CPU-capable training runner.
